@@ -1,2 +1,5 @@
 build
-iphonesim
+*.swp
+.DS_Store
+*.xcworkspace
+xcuserdata
